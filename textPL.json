@@ -1,0 +1,21 @@
+{
+   "AppNameText": "APLIKACJA POGODOWA",
+   "AppSloganText": "TWOJA POGODA ZAWSZE W JEDNYM MIEJSCU ...",
+   "LatitudeText": "Szerokość geograficzna: ",
+   "LongitudeText": "Długość geograficzna: ",
+   "FeelslikeText": "Temperatura odczuwalna: ",
+   "WindText": "Wiatr: ",
+   "HumidityText": "Wilgotność: ",
+   "PressureText": "Ciśnienie: ",
+   "PrecipitationText": "Opady: ",
+   "TitleFirstGraphText": "Tygodniowy wykres temperatury",
+   "TitleSecondGraphText": "Tygodniowy wykres opadów",
+   "FirstGraphScaleText": "Temperatura [°C]",
+   "SecondGraphScaleText": "Suma opadów [mm]",
+   "ProvincialCityText": "Wybierz miasto \n wojewódzkie",
+   "AverageTemperatureText": "Średnia wartość temperatury: ",
+   "AverageWindText": "Średnia prędkość wiatru: ",
+   "AverageHumidityText": "Średnia wilgotność: ",
+   "AveragePressureText": "Średnia wartość ciśnienia: ",
+   "WebsitesStatementText": "Powyższe informacje pochodzą \n z następujących stron internetowych:"
+}

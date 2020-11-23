@@ -1,0 +1,21 @@
+{
+   "AppNameText": "WEATHER APPLICATION",
+   "AppSloganText": "YOUR WEATHER IN ONE PLACE ...",
+   "LatitudeText": "Latitude: ",
+   "LongitudeText": "Longitude: ",
+   "FeelslikeText": "Feelslike: ",
+   "WindText": "Wind: ",
+   "HumidityText": "Humidity: ",
+   "PressureText": "Pressure: ",
+   "PrecipitationText": "Precipitation: ",
+   "TitleFirstGraphText": "Weekly temperature chart",
+   "TitleSecondGraphText": "Weekly precipitation chart",
+   "FirstGraphScaleText": "Temperature [°C]",
+   "SecondGraphScaleText": "Total precipitation [mm]",
+   "ProvincialCityText": "Select a provincial \n city",
+   "AverageTemperatureText": "Average temperature: ",
+   "AverageWindText": "Average wind: ",
+   "AverageHumidityText": "Average humidity: ",
+   "AveragePressureText": "Average pressure: ",
+   "WebsitesStatementText": "Above infos come from these websites:"
+}
